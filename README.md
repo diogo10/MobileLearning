@@ -5,8 +5,13 @@ Aplicacao desenvolvida no evento Google I/O Extends Joao Pessoa nos dias 15 a 17
 
 Equipe CDDEC
 
-Carlos
-Diogo
+Carlos (git francasense)
+
+Diogo Henrique (git diogo10)
+
 Diego
-Emiliano
+
+Emiliano Carvalho (git emilianocarvalho)
+
 Carolina
+
