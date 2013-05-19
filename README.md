@@ -9,7 +9,7 @@ Carlos (git francasense)
 
 Diogo Henrique (git diogo10)
 
-Diego
+Diêgo Nóbrega Caetano
 
 Emiliano Carvalho (git emilianocarvalho)
 
